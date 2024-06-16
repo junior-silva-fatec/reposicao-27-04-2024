@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reposicao</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancelar</string>
+</resources>
